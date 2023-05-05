@@ -10,4 +10,4 @@ Yet it has no masking at Decoder, so you should be aware of that.
 This implementation has multi-head self-attention and positional encoding 
 
 
-which gives the nn the structure of sequence.
+which gives the nn understanding of the structure of sequence.
